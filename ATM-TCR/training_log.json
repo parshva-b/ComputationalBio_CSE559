@@ -1,0 +1,65 @@
+[
+    {
+        "hyperparameters": {
+            "batch_size": 32,
+            "drop_rate": 0.25,
+            "lin_size": 512
+        },
+        "start_time": 1733045034.5695915,
+        "end_time": 1733049835.5324266
+    },
+    {
+        "hyperparameters": {
+            "batch_size": 32,
+            "drop_rate": 0.25,
+            "lin_size": 1024
+        },
+        "start_time": 1733049835.5349612,
+        "end_time": 1733054786.5291214
+    },
+    {
+        "hyperparameters": {
+            "batch_size": 32,
+            "drop_rate": 0.25,
+            "lin_size": 2048
+        },
+        "start_time": 1733054786.5330696,
+        "end_time": 1733059978.806344
+    },
+    {
+        "hyperparameters": {
+            "batch_size": 32,
+            "drop_rate": 0.5,
+            "lin_size": 512
+        },
+        "start_time": 1733059978.8092363,
+        "end_time": 1733062211.0272694
+    },
+    {
+        "hyperparameters": {
+            "batch_size": 32,
+            "drop_rate": 0.5,
+            "lin_size": 1024
+        },
+        "start_time": 1733062211.0300963,
+        "end_time": 1733066217.720287
+    },
+    {
+        "hyperparameters": {
+            "batch_size": 32,
+            "drop_rate": 0.5,
+            "lin_size": 2048
+        },
+        "start_time": 1733066217.7235587,
+        "end_time": 1733071444.1323438
+    },
+    {
+        "hyperparameters": {
+            "batch_size": 32,
+            "drop_rate": 0.35,
+            "lin_size": 512
+        },
+        "start_time": 1733071444.136119,
+        "end_time": 1733076164.0901182
+    }
+]
